@@ -15,7 +15,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 
 **`Linux Engineer | Docker | DevOps`**
 
-Me chamo Regis Gurgel Soares, tenho 47 anos e sou natural de São Paulo. Sou formado em pela faculdade FIT em Redes de Computadores. Atualmente, estou estudando linguagens de programação. Sou apaixonada por tecnologia.
+Me chamo Regis Gurgel Soares, tenho 47 anos e sou natural de São Paulo. Sou formado pela faculdade FIT em Redes de Computadores. Atualmente, estou estudando linguagens de programação. Sou apaixonado por tecnologia.
 
 <p align="left">
 
